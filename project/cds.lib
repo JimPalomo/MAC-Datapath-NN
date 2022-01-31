@@ -1,0 +1,2 @@
+SOFTINCLUDE /home1/AD/mpopov6/cds.lib
+DEFINE sram_cell_layout /home3/ugrad3/jpalomo/project/calibre/sram_cell_layout

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jpalomo
+HostName                       jump.ece.uic.edu
+ProcessIdentifier              21260
+ProcessCreationTime_UTC        1635545645
+ProcessCreationTime_Readable   Fri Oct 29 17:14:05 2021 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home3/ugrad3/jpalomo/project/2Bit_RCAx1/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Oct 29 21:24:22 2021 CDT
