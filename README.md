@@ -14,7 +14,7 @@ Developed a Multiplication and Accumulation (MAC) datapath for Neural Networks. 
 - Fix SRAM + Sense Amplifier
 
 ### Example of Top Level System
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/JimPalomo/MAC-Datapath-NN/blob/main/assets/sample-1.png)
+![alt text](https://github.com/JimPalomo/MAC-Datapath-NN/blob/main/assets/sample-2.png)
+![alt text](https://github.com/JimPalomo/MAC-Datapath-NN/blob/main/assets/sample-3.png)
+![alt text](https://github.com/JimPalomo/MAC-Datapath-NN/blob/main/assets/sample-4.png)
